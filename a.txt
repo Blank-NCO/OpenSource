@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 "hello hello" 
 
+=======
+>>>>>>> c84e932fdfaaecc514b38df62c8e40b96cfd5aa5
 hahah
